@@ -1,6 +1,8 @@
 # load.css
 A purely CSS-Based Loading Animation
 
+🚧 *It's a work in progress*
+
 ## Preview
 ![Load.css Preview](preview.gif)
 
